@@ -1,0 +1,18 @@
+ GPT Manifest (for ChatGPT/GPT actions UI) 
+{
+  "schema_version": "v1",
+  "name_for_human": "Kacy Logger",
+  "name_for_model": "kacy_logger",
+  "description_for_human": "Log visibility audit leads and trigger follow-ups for Media Marketing Exposure.",
+  "description_for_model": "Call this API when an audit result is ready. Provide lead details and trigger email + booking logic.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://script.google.com/macros/s/AKfycbzCQn01xDawp9r5zOo2dC69YOzu5GDDGmM00k6AsYHDXEini4DQwNT2zowfepziioD3/exec"
+  },
+  "logo_url": "https://mediamarketingexposure.com/favicon-512x512.png",
+  "contact_email": "mediamarketingexposure@gmail.com",
+  "legal_info_url": "https://www.mediamarketingexposure.com/privacy-policy"
+}
