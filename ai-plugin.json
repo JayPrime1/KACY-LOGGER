@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Kacy Logger",
+  "name_for_model": "kacy_logger",
+  "description_for_human": "Log visibility audit leads and trigger follow-ups for Media Marketing Exposure.",
+  "description_for_model": "Call this API when an audit result is ready. Provide lead details and trigger email + booking logic.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://jayprime1.github.io/KACY-LOGGER/openapi.json"
+  },
+  "logo_url": "https://mediamarketingexposure.com/favicon-512x512.png",
+  "contact_email": "your@email.com",
+  "legal_info_url": "https://mediamarketingexposure.notion.site/Media-Marketing-Exposure-Privacy-Policy-219562940d9680cf9be8c"
+}
